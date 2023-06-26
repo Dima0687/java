@@ -58,7 +58,3 @@ X<sup>2</sup>
 ## Emoji
 
 :joy:
-
-## Highlighting
-
-I need to highlight these ==very important words==
