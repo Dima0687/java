@@ -53,4 +53,12 @@ X<sup>2</sup>
 ## Sub List
 1. Item1
     1. Sub Item1
-2. 
+2. Item2
+
+## Emoji
+
+:joy:
+
+## Highlighting
+
+I need to highlight these ==very important words==
