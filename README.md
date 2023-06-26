@@ -49,7 +49,7 @@ H~2~0
 H<sub>2</sub>0
 
 ## Superscript
-X^2
+X^2^
 X<sup>2</sup>
 
 ## Sub List
