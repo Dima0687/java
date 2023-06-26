@@ -35,7 +35,7 @@ Here is a sentence with a footnote [^1]
 [^1]:footnote.
 
 ## Heading ID
-###Heading{#2}
+### Heading{#2}
 
 ~~Word~~
 
